@@ -37,7 +37,7 @@
 [<img align="left" alt="AsmitaKakkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" bgcolor="white" />][linkedin]
 [<img align="left" alt="AsmitaKakkar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" bgcolor="white" />][instagram]
 </p>
-
+<br />
 
 ***
 <div align="center">
