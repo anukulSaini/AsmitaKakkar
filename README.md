@@ -6,7 +6,7 @@
 <img height="200" align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
-- 🌱 I’m currently learning C++ and Web Development
+- 🌱 I’m currently learning C++ and Web Development..
 - 💬 Ask me about [here](https://github.com/AsmitaKakkar/AsmitaKakkar/issues)
 - 📫 How to reach me: asmitakakkar11@gmail.com
 
